@@ -1,0 +1,12 @@
+main OR || master
+release-2024-02-19 - for testing before release
+develop - new features are added here
+feature/RQ-1234__shopiing-cart-page
+bugfix/BF-3421__fix-sticky-header
+hotfix/HF__something-weng-wrong
+chore/changes_in_claude_md
+
+
+git branch 
+git checkout
+git switch
